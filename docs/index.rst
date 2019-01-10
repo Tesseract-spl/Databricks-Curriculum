@@ -24,3 +24,4 @@ What are the prerequisites for this Databricks Course?
    :maxdepth: 2
    
    curriculum
+   Day1-COntent
