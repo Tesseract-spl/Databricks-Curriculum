@@ -13,299 +13,298 @@ PART - I
 +       +                                                       +          +
 |       | - Databricks login:                                   |          |
 +       +                                                       +          +
-|       | 1. Sign up for Azure free Trial                       |          |
+|       | 1.Sign up for Azure free Trial                        |          |
 |       |                                                       |          |
-+       + 2. Create an Azure Databricks workspace               +          +
++       + 2.Create an Azure Databricks workspace                +          +
 |       |                                                       |          |
-|       | 3. Launch the workspace                               |          |
+|       | 3.Launch the workspace                                |          |
 +       +                                                       +          +
-|       | 4. Introduction to Databricks UI                      |          |
+|       | 4.Introduction to Databricks UI                       |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
 +       + 1.Create your Own Azure Account                       +          +
 |       |                                                       |          |
-+       + 2. Launch Azure Databricks workspace                  +          +
++       + 2.Launch Azure Databricks workspace                   +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 2 | - Clusters:                                           | 2Hrs     |
 +       +                                                       +          +
-|       | 1. Display clusters                                   |          |
+|       | 1.Display clusters                                    |          |
 |       |                                                       |          |
-+       + 2. Create a cluster                                   +          +
++       + 2.Create a cluster                                    +          +
 |       |                                                       |          |
-|       | 3. Clone a Cluster                                    |          |
+|       | 3.Clone a Cluster                                     |          |
 +       +                                                       +          +
-|       | 4. Edit a Cluster                                     |          |
+|       | 4.Edit a Cluster                                      |          |
 |       |                                                       |          |
-+       + 5. Start a Cluster                                    +          +
++       + 5.Start a Cluster                                     +          +
 |       |                                                       |          |
-|       | 6. Pin a Cluster                                      |          |
+|       | 6.Pin a Cluster                                       |          |
 +       +                                                       +          +
-|       | 7. Delete a Cluster                                   |          |
+|       | 7.Delete a Cluster                                    |          |
 |       |                                                       |          |
-+       + 8. Cluster Event Log                                  +          +
++       + 8.Cluster Event Log                                   +          +
 |       |                                                       |          |
-|       | 9. Cluster Configurations                             |          |
+|       | 9.Cluster Configurations                              |          |
 +       +                                                       +          +
-|       | 10. High Concurrency Clusters                         |          |
+|       | 10.High Concurrency Clusters                          |          |
 |       |                                                       |          |
-+       + 11. Python Clusters                                   +          +
++       + 11.Python Clusters                                    +          +
 |       |                                                       |          |
-|       | 12. Cluster Access Control                            |          |
+|       | 12.Cluster Access Control                             |          |
 +       +                                                       +          +
-|       | 13. Metrics                                           |          |
+|       | 13.Metrics                                            |          |
 |       |                                                       |          |
-+       + 14. Cluster Driver Logs                               +          +
++       + 14.Cluster Driver Logs                                +          +
 |       |                                                       |          |
-|       | 15. Cluster Information in the Spark UI               |          |
+|       | 15.Cluster Information in the Spark UI                |          |
 +       +                                                       +          +
-|       | 16. Clusters and Libraries                            |          |
+|       | 16.Clusters and Libraries                             |          |
 |       |                                                       |          |
-+       + 17. Clusters and Notebooks                            +          +
-|       |                                                       |          |
++       + 17.Clusters and Notebooks                             +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Create cluster for Spark Databricks Runtime        +          +
++       + 1.Create cluster for Spark Databricks Runtime         +          +
 |       | with different Version                                |          |
 |       |                                                       |          |
-+       + 2. Create cluster for Spark Databricks                +          +
++       + 2.Create cluster for Spark Databricks                 +          +
 |       | Runtime with different Python Version                 |          |
 +       +                                                       +          +
-|       | 3. Set the user specific access to                    |          |       
+|       | 3.Set the user specific access to                     |          |       
 |       | Cluster creation                                      |          | 
 +       +                                                       +          +
-|       | 4. Set cluster Autoscaling                            |          |
+|       | 4.Set cluster Autoscaling                             |          |
 +       +                                                       +          +
-|       | 5. Set Spark configuration to cluster                 |          |
+|       | 5.Set Spark configuration to cluster                  |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 3 | - Workspace:                                          | 2.5Hrs   |
 |       |                                                       |          |
-+       + 1. Folders                                            +          +
++       + 1.Folders                                             +          +
 |       |                                                       |          |
-|       | 2. Object                                             |          |
+|       | 2.Object                                              |          |
 +       +                                                       +          +
-|       | 3. Search the Workspace                               |          |
+|       | 3.Search the Workspace                                |          |
 |       |                                                       |          |
 +       +                                                       +          +
 |       | - Notebooks:                                          |          |
 |       |                                                       |          |
-+       + 1. Managing Notebooks                                 +          +
++       + 1.Managing Notebooks                                  +          +
 |       |                                                       |          |
-|       | 2. Using Notebooks                                    |          |
+|       | 2.Using Notebooks                                     |          |
 +       +                                                       +          +
-|       | 3. Notebook Workflows                                 |          |
+|       | 3.Notebook Workflows                                  |          |
 |       |                                                       |          |
-+       + 4. Dashboards                                         +          +
++       + 4.Dashboards                                          +          +
 |       |                                                       |          |
-|       | 5. widgets                                            |          |
+|       | 5.widgets                                             |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Create your folder in workspace and                +          +
++       + 1.Create your folder in workspace and                 +          +
 |       | create various notebook for diff. options             |          |
 +       +                                                       +          +
-|       | 2. Create notebook for ‘Hello World’                  |          |
+|       | 2.Create notebook for ‘Hello World’                   |          |
 |       | python code and run.                                  |          |
 +-------+-------------------------------------------------------+----------+
 | Day 4 | - Accessing data:                                     | 2Hrs     |
 |       |                                                       |          |
-+       + 1. Import data                                        +          +
++       + 1.Import data                                         +          +
 |       |                                                       |          |
-|       | 2. Load data                                          |          |
+|       | 2.Load data                                           |          |
 +       +                                                       +          +
-|       | 3. Download to driver                                 |          |
+|       | 3.Download to driver                                  |          |
 |       |                                                       |          |
-+       + 4. Edit data                                          +          +
++       + 4.Edit data                                           +          +
 |       |                                                       |          |
-|       | 5. Delete data                                        |          |
+|       | 5.Delete data                                         |          |
 +       +                                                       +          +
-|       | 6. DBFS (Databricks File System)                      |          |
+|       | 6.DBFS (Databricks File System)                       |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Write sample code to read given file               +          +
++       + 1.Write sample code to read given file                +          +
 |       |                                                       |          |
-+       + 2. Write code to Update / delete the                  +          +
++       + 2.Write code to Update / delete the                   +          +
 |       | given file data                                       |          |
 +       +                                                       +          +
-|       | 3. For given file get the all                         |          |
+|       | 3.For given file get the all                          |          |
 |       | Employee details having salary more than $50000       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 5 | -Databases & Tables:                                  | 2.5Hrs   |
 |       |                                                       |          |
-+       + 1. View databases and tables                          +          +
++       + 1.View databases and tables                           +          +
 |       |                                                       |          |
-|       | 2. Create a table                                     |          |
+|       | 2.Create a table                                      |          |
 +       +                                                       +          +
-|       | 3. Access a table                                     |          |
+|       | 3.Access a table                                      |          |
 |       |                                                       |          |
-+       + 4. Update a table                                     +          +
++       + 4.Update a table                                      +          +
 |       |                                                       |          |
-|       | 5. Delete a table                                     |          |
+|       | 5.Delete a table                                      |          |
 +       +                                                       +          +
-|       | 6. Managed and unmanaged tables                       |          |
+|       | 6.Managed and unmanaged tables                        |          |
 |       |                                                       |          |
-+       + 7. Partitioned tables                                 +          +
++       + 7.Partitioned tables                                  +          +
 |       |                                                       |          |
-|       | 8. Table access control                               |          |
+|       | 8.Table access control                                |          |
 +       +                                                       +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Create test Database and table for                 +          +
++       + 1.Create test Database and table for                  +          +
 |       | provided file                                         |          |
 +       +                                                       +          +
-|       | 2. Update/Delete table                                |          |
+|       | 2.Update/Delete table                                 |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 6 | - Libraries:                                          | 3Hrs     |
 |       |                                                       |          |
-+       + 1. Library lifecycle                                  +          +
++       + 1.Library lifecycle                                   +          +
 |       |                                                       |          |
-|       | 2. Create a library                                   |          |
+|       | 2.Create a library                                    |          |
 +       +                                                       +          +
-|       | 3. View library details                               |          |
+|       | 3.View library details                                |          |
 |       |                                                       |          |
-+       + 4. Attach a library to a cluster                      +          +
++       + 4.Attach a library to a cluster                       +          +
 |       |                                                       |          |
-|       | 5. Detach a library from a cluster                    |          |
+|       | 5.Detach a library from a cluster                     |          |
 +       +                                                       +          +
-|       | 6. View the libraries attached to a cluster           |          |
+|       | 6.View the libraries attached to a cluster            |          |
 |       |                                                       |          |
-+       + 7. Move a library                                     +          +
++       + 7.Move a library                                      +          +
 |       |                                                       |          |
-|       | 8. Delete a library                                   |          |
+|       | 8.Delete a library                                    |          |
 +       +                                                       +          +
-|       | 9. Update a library                                   |          |
+|       | 9.Update a library                                    |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignment                                          |          |
 |       |                                                       |          |
-+       + 1. Upload third party DLL build by you                +          +
++       + 1.Upload third party DLL build by you                 +          +
 |       | in Python and, access in python notebook              |          |
 +       +                                                       +          +
-|       | 2. pload  python package library                      |          |
+|       | 2.Pload  python package library                       |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code     |          |
 +-------+-------------------------------------------------------+----------+
 | Day 7 | - Databricks Configuration:                           | 3Hrs     |
 |       |                                                       |          |
-+       + 1. Configure the cluster                              +          +
++       + 1.Configure the cluster                               +          +
 |       |                                                       |          |
-|       | 2. Spark related configuration                        |          |
+|       | 2.Spark related configuration                         |          |
 +       +                                                       +          +
-|       | 3. Cluster Scale                                      |          |
+|       | 3.Cluster Scale                                       |          |
 +       +                                                       +          +
 |       | - Security-Manage Access Control:                     |          |
 |       |                                                       |          |
-+       + 1. Workspace Access Control                           +          +
++       + 1.Workspace Access Control                            +          +
 |       |                                                       |          |
-|       | 2. Cluster Access Control                             |          |
+|       | 2.Cluster Access Control                              |          |
 +       +                                                       +          +
-|       | 3. Jobs Access Control                                |          |
+|       | 3.Jobs Access Control                                 |          |
 |       |                                                       |          |
-+       + 4. Table Access Control                               +          +
++       + 4.Table Access Control                                +          +
 |       |                                                       |          |
-|       | 5. Enable Token-based Authentication                  |          |
+|       | 5.Enable Token-based Authentication                   |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Configure your spark cluster with                  |          |
++       + 1.Configure your spark cluster with                   +          +
 |       | given configuration(provide after session)            |          |
 +       +                                                       +          +
-|       | 2. configure log directory for                        |          |
+|       | 2.configure log directory for                         |          |
 |       | storing cluster logs                                  |          |
 +       +                                                       +          +
-|       | 3. Add multiple users and manage access               |          |
+|       | 3.Add multiple users and manage access                |          |
 |       | to workspace,cluster&job for particular users         |          |
 +       +                                                       +          +
-|       | 4. enable token-based authentication                  |          |
+|       | 4.Enable token-based authentication                   |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 8 | - Jobs:                                               | 3Hrs     |
 |       |                                                       |          |
-+       + 1. View Jobs                                          +          +
++       + 1.View Jobs                                           +          +
 |       |                                                       |          |
-|       | 2. Create a job                                       |          |
+|       | 2.Create a job                                        |          |
 +       +                                                       +          +
-|       | 3. View job details                                   |          |
+|       | 3.View job details                                    |          |
 |       |                                                       |          |
-+       + 4. Run a job                                          +          +
++       + 4.Run a job                                           +          +
 |       |                                                       |          |
-|       | 5. Run a job with different parameters                |          |
+|       | 5.Run a job with different parameters                 |          |
 +       +                                                       +          +
-|       | 6. View a job run                                     |          |
+|       | 6.View a job run                                      |          |
 |       |                                                       |          |
-+       + 7. Edit a job                                         +          +
++       + 7.Edit a job                                          +          +
 |       |                                                       |          |
-|       | 8. Delete a job                                       |          |
+|       | 8.Delete a job                                        |          |
 +       +                                                       +          +
-|       | 9. Library dependencies                               |          |
+|       | 9.Library dependencies                                |          |
 |       |                                                       |          |
-+       + 10. Job options                                       +          +
++       + 10.Job options                                        +          +
 |       |                                                       |          |
 +       + - Visualizations:                                     +          +
 |       |                                                       |          |
-+       + 1. Display function                                   +          +
++       + 1.Display function                                    +          +
 |       |                                                       |          |
-|       | 2. Display function for image types                   |          |
+|       | 2.Display function for image types                    |          |
 +       +                                                       +          +
-|       | 3. Visualizations in python                           |          |
+|       | 3.Visualizations in python                            |          |
 |       |                                                       |          |
-+       + 4. Visualizations in scala                            +          +
++       + 4.Visualizations in scala                             +          +
 |       |                                                       |          |
-|       | 5. Visualizations in SQL                              |          |
+|       | 5.Visualizations in SQL                               |          |
 +       +                                                       +          +
-|       | 6. Visualizations in R                                |          |
+|       | 6.Visualizations in R                                 |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1. Create spark job with different                    +          +
++       + 1.Create spark job with different                     +          +
 |       | parameters and required libraries.                    |          |
 +       +                                                       +          +
-|       | 2. Schedule this job for given time                   |          |
+|       | 2.Schedule this job for given time                    |          |
 |       | and execute the job.                                  |          |
 +       +                                                       +          +
-|       | 3. create different visualizations for                |          |
+|       | 3.Create different visualizations for                 |          |
 |       | given scala/python/SQL/R notebooks.                   |          |
 +-------+-------------------------------------------------------+----------+
 | Day 9 | - Version Control :                                   | 1Hrs     |
 +       +                                                       +          +
-|       | 1. Github Integration with Databricks notebook        |          |
+|       | 1.Github Integration with Databricks notebook         |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 |       | - Assingments                                         |          |                 
 |       |                                                       |          |
-+       + 1. Bitbucket Integration with                         +          +
++       + 1.Bitbucket Integration with                          +          +
 |       | Databricks notebook                                   |          |
 +-------+-------------------------------------------------------+----------+
 | Day 10| - REST API :                                          | 1.5Hrs   |
 +       +                                                       +          +
-|       | 1. DBFS API                                           |          |
+|       | 1.DBFS API                                            |          |
 |       |                                                       |          |
-+       + 2. Clusters API                                       +          +
++       + 2.Clusters API                                        +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 11| Use Cases - I                                         | 2Hrs     |
 +       +                                                       +          +
 |       | - Connecting Business Intelligence Tools:             |          |
 +       +                                                       +          +
-|       | 1. SQL Workbench                                      |          |
+|       | 1.SQL Workbench                                       |          |
 +       +                                                       +          +
-|       | 2. Tableau / Power BI                                 |          |
+|       | 2.Tableau / Power BI                                  |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 12| Use Cases - II                                        | 2Hrs     |
 +       +                                                       +          +
-|       | 1. Read/Write files to Azure/AWS storage              |          |
+|       | 1.Read/Write files to Azure/AWS storage               |          |
 |       |                                                       |          |
-+       + 2. Connecting to SQL Databases using JDBC             +          +
++       + 2.Connecting to SQL Databases using JDBC              +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 13| Use Cases - III                                       | 2Hrs     |
