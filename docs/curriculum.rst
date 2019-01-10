@@ -136,7 +136,7 @@ PART - I
 |       | 3.For given file get the all                          |          |
 |       | Employee details having salary more than $50000       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 5 | -Databases & Tables:                                  | 2.5Hrs   |
+| Day 5 | - Databases & Tables:                                 | 2.5Hrs   |
 |       |                                                       |          |
 +       + 1.View databases and tables                           +          +
 |       |                                                       |          |
