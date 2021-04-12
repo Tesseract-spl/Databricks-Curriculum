@@ -20,13 +20,6 @@ Course Curriculum
 |       | 4.Introduction to Databricks UI                       |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create your Own Azure Account                       +          +
-|       |                                                       |          |
-+       + 2.Launch Azure Databricks workspace                   +          +
-|       |                                                       |          |
-+-------+-------------------------------------------------------+----------+
 | Day 2 | - Clusters:                                           | 2Hrs     |
 +       +                                                       +          +
 |       | 1.Display clusters                                    |          |
@@ -62,22 +55,6 @@ Course Curriculum
 |       | 16.Clusters and Libraries                             |          |
 |       |                                                       |          |
 +       + 17.Clusters and Notebooks                             +          +
-|       |                                                       |          |
-+-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create cluster for Spark Databricks Runtime         +          +
-|       | with different Version                                |          |
-|       |                                                       |          |
-+       + 2.Create cluster for Spark Databricks                 +          +
-|       | Runtime with different Python Version                 |          |
-+       +                                                       +          +
-|       | 3.Set the user specific access to                     |          |       
-|       | Cluster creation                                      |          | 
-+       +                                                       +          +
-|       | 4.Set cluster Autoscaling                             |          |
-+       +                                                       +          +
-|       | 5.Set Spark configuration to cluster                  |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 3 | - Workspace:                                          | 2Hrs     |
@@ -116,22 +93,6 @@ Course Curriculum
 |       | 6.DBFS (Databricks File System)                       |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create your folder in workspace and                 +          +
-|       | create various notebook for diff. options             |          |
-|       |                                                       |          |
-+       + 2.Create notebook for ‘Hello World’                   +          +
-|       | python code and run.                                  |          |
-|       |                                                       |          |
-+       + 3.Write sample code to read given file                +          +
-|       |                                                       |          |
-+       + 4.Write code to Update / delete the                   +          +
-|       | given file data                                       |          |
-|       |                                                       |          |
-+       + 5.For given file get the all                          +          +
-|       | Employee details having salary more than $50000       |          |
-+-------+-------------------------------------------------------+----------+
 | Day 4 | - Databases & Tables:                                 | 2Hrs     |
 |       |                                                       |          |
 +       + 1.View databases and tables                           +          +
@@ -150,14 +111,6 @@ Course Curriculum
 |       |                                                       |          |
 |       | 8.Table access control                                |          |
 +       +                                                       +          +
-|       |                                                       |          |
-+-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create test Database and table for                  +          +
-|       | provided file                                         |          |
-+       +                                                       +          +
-|       | 2.Update/Delete table                                 |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 5 | - Libraries:                                          | 2Hrs     |
@@ -209,20 +162,6 @@ Course Curriculum
 |       |                                                       |          |
 |       | 5.Enable Token-based Authentication                   |          |
 +-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Configure your spark cluster with                   +          +
-|       | given configuration(provide after session)            |          |
-+       +                                                       +          +
-|       | 2.configure log directory for                         |          |
-|       | storing cluster logs                                  |          |
-+       +                                                       +          +
-|       | 3.Add multiple users and manage access                |          |
-|       | to workspace,cluster&job for particular users         |          |
-+       +                                                       +          +
-|       | 4.Enable token-based authentication                   |          |
-|       |                                                       |          |
-+-------+-------------------------------------------------------+----------+
 | Day 7 | - Jobs:                                               | 2Hrs     |
 |       |                                                       |          |
 +       + 1.View Jobs                                           +          +
@@ -258,17 +197,6 @@ Course Curriculum
 |       | 5.Visualizations in SQL                               |          |
 +       +                                                       +          +
 |       | 6.Visualizations in R                                 |          |
-+-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create spark job with different                     +          +
-|       | parameters and required libraries.                    |          |
-+       +                                                       +          +
-|       | 2.Schedule this job for given time                    |          |
-|       | and execute the job.                                  |          |
-+       +                                                       +          +
-|       | 3.Create different visualizations for                 |          |
-|       | given scala/python/SQL/R notebooks.                   |          |
 +-------+-------------------------------------------------------+----------+
 | Day 8 | Databricks CLI integration                            | 2Hrs     |
 +       +                                                       +          +
@@ -307,11 +235,6 @@ Course Curriculum
 +       +                                                       +          +
 |       | 1.Github Integration with Databricks notebook         |          |
 |       |                                                       |          |
-+-------+-------------------------------------------------------+----------+
-|       | - Assingments                                         |          |                 
-|       |                                                       |          |
-+       + 1.Bitbucket Integration with                          +          +
-|       | Databricks notebook                                   |          |
 +-------+-------------------------------------------------------+----------+
 | Day 15| - REST API :                                          | 1.5Hrs   |
 +       +                                                       +          +
