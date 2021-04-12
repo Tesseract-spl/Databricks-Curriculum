@@ -82,7 +82,7 @@ PART - I
 |       | 5.Set Spark configuration to cluster                  |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 3 | - Workspace:                                          | 2.5Hrs   |
+| Day 3 | - Workspace:                                          | 2Hrs     |
 |       |                                                       |          |
 +       + 1.Folders                                             +          +
 |       |                                                       |          |
@@ -102,16 +102,8 @@ PART - I
 +       + 4.Dashboards                                          +          +
 |       |                                                       |          |
 |       | 5.widgets                                             |          |
-+-------+-------------------------------------------------------+----------+
-|       | - Assignments                                         |          |
-|       |                                                       |          |
-+       + 1.Create your folder in workspace and                 +          +
-|       | create various notebook for diff. options             |          |
 +       +                                                       +          +
-|       | 2.Create notebook for ‘Hello World’                   |          |
-|       | python code and run.                                  |          |
-+-------+-------------------------------------------------------+----------+
-| Day 4 | - Accessing data:                                     | 2Hrs     |
+|       | - Accessing data:                                     |          |
 |       |                                                       |          |
 +       + 1.Import data                                         +          +
 |       |                                                       |          |
@@ -128,15 +120,21 @@ PART - I
 +-------+-------------------------------------------------------+----------+
 |       | - Assignments                                         |          |
 |       |                                                       |          |
-+       + 1.Write sample code to read given file                +          +
++       + 1.Create your folder in workspace and                 +          +
+|       | create various notebook for diff. options             |          |
 |       |                                                       |          |
-+       + 2.Write code to Update / delete the                   +          +
++       + 2.Create notebook for ‘Hello World’                   +          +
+|       | python code and run.                                  |          |
+|       |                                                       |          |
++       + 3.Write sample code to read given file                +          +
+|       |                                                       |          |
++       + 4.Write code to Update / delete the                   +          +
 |       | given file data                                       |          |
-+       +                                                       +          +
-|       | 3.For given file get the all                          |          |
+|       |                                                       |          |
++       + 5.For given file get the all                          +          +
 |       | Employee details having salary more than $50000       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 5 | - Databases & Tables:                                 | 2.5Hrs   |
+| Day 4 | - Databases & Tables:                                 | 2Hrs     |
 |       |                                                       |          |
 +       + 1.View databases and tables                           +          +
 |       |                                                       |          |
@@ -164,7 +162,7 @@ PART - I
 |       | 2.Update/Delete table                                 |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 6 | - Libraries:                                          | 3Hrs     |
+| Day 5 | - Libraries:                                          | 2Hrs     |
 |       |                                                       |          |
 +       + 1.Library lifecycle                                   +          +
 |       |                                                       |          |
@@ -193,7 +191,7 @@ PART - I
 |       | 2.Pload  python package library                       |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code     |          |
 +-------+-------------------------------------------------------+----------+
-| Day 7 | - Databricks Configuration:                           | 3Hrs     |
+| Day 6 | - Databricks Configuration:                           | 2Hrs     |
 |       |                                                       |          |
 +       + 1.Configure the cluster                               +          +
 |       |                                                       |          |
@@ -227,7 +225,7 @@ PART - I
 |       | 4.Enable token-based authentication                   |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 8 | - Jobs:                                               | 3Hrs     |
+| Day 7 | - Jobs:                                               | 2Hrs     |
 |       |                                                       |          |
 +       + 1.View Jobs                                           +          +
 |       |                                                       |          |
@@ -274,7 +272,40 @@ PART - I
 |       | 3.Create different visualizations for                 |          |
 |       | given scala/python/SQL/R notebooks.                   |          |
 +-------+-------------------------------------------------------+----------+
-| Day 9 | - Version Control :                                   | 1Hrs     |
+| Day 8 | Databricks CLI integration                            | 2Hrs     |
++       +                                                       +          +
+|       |                                                       |          |
++-------+-------------------------------------------------------+----------+
+| Day 9 | Use Case - I                                          | 2Hrs     |
++       +                                                       +          +
+|       | 1.Read/Write files to Azure/AWS storage               |          |
+|       |                                                       |          |
++       + 2.Connecting to SQL Databases using JDBC              +          +
+|       |                                                       |          |
++-------+-------------------------------------------------------+----------+
+| Day 10| Use Case - II                                         | 2Hrs     |
++       +                                                       +          +
+|       | ETL Process                                           |          |
+|       |                                                       |          |
++-------+-------------------------------------------------------+----------+
+| Day 11| Use Case - III                                        | 2Hrs     |
++       +                                                       +          +
+|       | DeltaLake                                             |          |
++-------+-------------------------------------------------------+----------+
+| Day 12| Use Case - IV                                         | 2Hrs     |
++       +                                                       +          +
+|       | Azure Data Factory and Databricks integration         |          |
++-------+-------------------------------------------------------+----------+
+| Day 13| Use Case - V                                          | 2Hrs     |
++       +                                                       +          +
+|       | - Connecting Business Intelligence Tools:             |          |
++       +                                                       +          +
+|       | 1.SQL Workbench                                       |          |
++       +                                                       +          +
+|       | 2.Tableau / Power BI                                  |          |
+|       |                                                       |          |
++-------+-------------------------------------------------------+----------+
+| Day 14| - Version Control :                                   | 1Hrs     |
 +       +                                                       +          +
 |       | 1.Github Integration with Databricks notebook         |          |
 |       |                                                       |          |
@@ -284,35 +315,21 @@ PART - I
 +       + 1.Bitbucket Integration with                          +          +
 |       | Databricks notebook                                   |          |
 +-------+-------------------------------------------------------+----------+
-| Day 10| - REST API :                                          | 1.5Hrs   |
+| Day 15| - REST API :                                          | 1.5Hrs   |
 +       +                                                       +          +
 |       | 1.DBFS API                                            |          |
 |       |                                                       |          |
 +       + 2.Clusters API                                        +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 11| Use Cases - I                                         | 2Hrs     |
+| Day 16| Use Case - VI                                         | 2Hrs     |
 +       +                                                       +          +
-|       | - Connecting Business Intelligence Tools:             |          |
-+       +                                                       +          +
-|       | 1.SQL Workbench                                       |          |
-+       +                                                       +          +
-|       | 2.Tableau / Power BI                                  |          |
-|       |                                                       |          |
+|       | Structured Streaming(Databricks + Kafka)              |          |
 +-------+-------------------------------------------------------+----------+
-| Day 12| Use Cases - II                                        | 2Hrs     |
+| Day 17| Use Case - VII                                        | 2Hrs     |
 +       +                                                       +          +
-|       | 1.Read/Write files to Azure/AWS storage               |          |
-|       |                                                       |          |
-+       + 2.Connecting to SQL Databases using JDBC              +          +
-|       |                                                       |          |
+|       | Scheduling & workflow(Databricks + Airflow            |          |
 +-------+-------------------------------------------------------+----------+
-| Day 13| Use Cases - III                                       | 2Hrs     |
-+       +                                                       +          +
-|       | ETL Process                                           |          |
-|       |                                                       |          |
+| Day 18| Summary and Q & A                                     | 2Hrs     |
 +-------+-------------------------------------------------------+----------+
-| Day 14| Use Cases - IV                                        | 2Hrs     |
-+       +                                                       +          +
-|       | Databricks CLI integration                            |          |
-+-------+-------------------------------------------------------+----------+
+
