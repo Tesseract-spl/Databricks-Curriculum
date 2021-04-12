@@ -134,14 +134,6 @@ Course Curriculum
 |       | 9.Update a library                                    |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-|       | - Assignment                                          |          |
-|       |                                                       |          |
-+       + 1.Upload third party DLL build by you                 +          +
-|       | in Python and, access in python notebook              |          |
-+       +                                                       +          +
-|       | 2.Pload  python package library                       |          |
-|       | (pandas, fuzzywuzzy  etc), try to consume in code     |          |
-+-------+-------------------------------------------------------+----------+
 | Day 6 | - Databricks Configuration:                           | 2Hrs     |
 |       |                                                       |          |
 +       + 1.Configure the cluster                               +          +
