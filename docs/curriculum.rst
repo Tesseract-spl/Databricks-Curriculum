@@ -204,17 +204,13 @@ Course Curriculum
 | Day 10| Use Case - II                                         | 2Hrs     |
 +       +                                                       +          +
 |       | ETL Process                                           |          |
-|       |                                                       |          |
+|       | Azure Data Factory and Databricks integration         |          |
 +-------+-------------------------------------------------------+----------+
 | Day 11| Use Case - III                                        | 2Hrs     |
 +       +                                                       +          +
 |       | DeltaLake                                             |          |
 +-------+-------------------------------------------------------+----------+
-| Day 12| Use Case - IV                                         | 2Hrs     |
-+       +                                                       +          +
-|       | Azure Data Factory and Databricks integration         |          |
-+-------+-------------------------------------------------------+----------+
-| Day 13| Use Case - V                                          | 2Hrs     |
+| Day 12| Use Case - V                                          | 2Hrs     |
 +       +                                                       +          +
 |       | - Connecting Business Intelligence Tools:             |          |
 +       +                                                       +          +
@@ -223,26 +219,26 @@ Course Curriculum
 |       | 2.Tableau / Power BI                                  |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 14| - Version Control :                                   | 1Hrs     |
+| Day 13| - Version Control :                                   | 1Hrs     |
 +       +                                                       +          +
 |       | 1.Github Integration with Databricks notebook         |          |
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 15| - REST API :                                          | 1.5Hrs   |
+| Day 14| - REST API :                                          | 1.5Hrs   |
 +       +                                                       +          +
 |       | 1.DBFS API                                            |          |
 |       |                                                       |          |
 +       + 2.Clusters API                                        +          +
 |       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
-| Day 16| Use Case - VI                                         | 2Hrs     |
+| Day 15| Use Case - VI                                         | 2Hrs     |
 +       +                                                       +          +
 |       | Structured Streaming(Databricks + Kafka)              |          |
 +-------+-------------------------------------------------------+----------+
-| Day 17| Use Case - VII                                        | 2Hrs     |
+| Day 16| Use Case - VII                                        | 2Hrs     |
 +       +                                                       +          +
 |       | Scheduling & workflow(Databricks + Airflow            |          |
 +-------+-------------------------------------------------------+----------+
-| Day 18| Summary and Q & A                                     | 2Hrs     |
+| Day 17| Summary and Q & A                                     | 2Hrs     |
 +-------+-------------------------------------------------------+----------+
 
