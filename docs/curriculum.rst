@@ -72,11 +72,11 @@ Course Curriculum
 |       |                                                       |          |
 |       | 2.Using Notebooks                                     |          |
 +       +                                                       +          +
-|       | 3.Notebook Workflows                                  |          |
+|       | 3.Notebooks External File Formats                     |          |
 |       |                                                       |          |
-+       + 4.Dashboards                                          +          +
++       + 4.Scheduling and Distributing Notebook                +          +
 |       |                                                       |          |
-|       | 5.widgets                                             |          |
+|       | 5.Develop and Run Notebook                            |          |
 +       +                                                       +          +
 |       | - Accessing data:                                     |          |
 |       |                                                       |          |
