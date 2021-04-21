@@ -109,9 +109,6 @@ Course Curriculum
 |       |                                                       |          |
 +       + 7.Partitioned tables                                  +          +
 |       |                                                       |          |
-|       | 8.Table access control                                |          |
-+       +                                                       +          +
-|       |                                                       |          |
 +-------+-------------------------------------------------------+----------+
 | Day 5 | - Libraries:                                          | 2Hrs     |
 |       |                                                       |          |
