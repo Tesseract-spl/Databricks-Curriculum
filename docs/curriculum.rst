@@ -180,12 +180,6 @@ Course Curriculum
 |       | 2.Display function for image types                    |          |
 +       +                                                       +          +
 |       | 3.Visualizations in python                            |          |
-|       |                                                       |          |
-+       + 4.Visualizations in scala                             +          +
-|       |                                                       |          |
-|       | 5.Visualizations in SQL                               |          |
-+       +                                                       +          +
-|       | 6.Visualizations in R                                 |          |
 +-------+-------------------------------------------------------+----------+
 | Day 8 | Databricks CLI integration                            | 2Hrs     |
 +       +                                                       +          +
